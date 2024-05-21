@@ -1,11 +1,12 @@
-## Feedback App
+## Feedback Application
 
-**Steps to view the app**
+**Steps for viewing the app**
 
-1. download the file using zip later,  extract it or clone the repo
-2. open root directory through the terminal in code editor
-3. type npm install
-4. type npm run dev
+1. download the file with zip later, extract it, or clone the repository.
+2. In the code editor, open the root directory via the terminal.
+3. Type: npm install
+4. Type: npm run dev
 
-note the development server address
-open a web browser on that address to view the project
+Take note of the development server's address.
+To view the project, open a web browser using that address.
+
