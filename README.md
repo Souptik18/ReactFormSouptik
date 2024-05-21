@@ -1,5 +1,7 @@
 ## Feedback App
 
+**Steps to view the app**
+
 1. download the file using zip
 2. open root directory through the terminal in code editor
 3. type npm install
