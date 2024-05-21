@@ -2,7 +2,7 @@
 
 **Steps to view the app**
 
-1. download the file using zip
+1. download the file using zip later,  extract it or clone the repo
 2. open root directory through the terminal in code editor
 3. type npm install
 4. type npm run dev
